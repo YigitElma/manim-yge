@@ -1,3 +1,6 @@
+# This is my version of 3Blue1Browns Animation library
+# I will work on this later for fusion specific animations
+
 <p align="center">
     <a href="https://github.com/3b1b/manim">
         <img src="https://raw.githubusercontent.com/3b1b/manim/master/logo/cropped.png">
